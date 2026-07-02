@@ -18,15 +18,10 @@
 
 <br/>
 
-### 📊 GitHub Stats
+### 🔥 Streak
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edc8785&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=edc8785&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edc8785&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
