@@ -5,6 +5,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=edc8785&label=Profile+Views&color=58A6FF&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/edc8785?style=flat&color=58A6FF&logoColor=white&label=Followers" alt="followers"/>
 
 </div>
 
@@ -30,4 +31,16 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=edc8785&theme=tokyo-night&hide_border=true" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edc8785/edc8785/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edc8785/edc8785/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/edc8785/edc8785/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
