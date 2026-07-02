@@ -1,22 +1,46 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=ryong&fontsize=90)
+<div align="center">
 
-<h3 align="center">안녕하세요, edc8785입니다 👋</h3>
-<p align="center">Python과 자동매매 시스템에 관심이 많습니다.</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+edc8785+%F0%9F%91%8B;Python+%26+Automated+Trading;Always+building+something" alt="Typing SVG" />
 
-<h3 align="center">🛠 Tech Stack</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-</p>
+<br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=edc8785&show_icons=true&theme=default" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edc8785&theme=default" height="165"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=edc8785&label=Profile+Views&color=58A6FF&style=flat" alt="profile views"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edc8785&layout=compact&theme=default" />
-</p>
+</div>
+
+<br/>
+
+### 🛠 Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,aws,github,git" />
+</div>
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=edc8785&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edc8785&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edc8785&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+### 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=edc8785&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+### 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=edc8785&theme=tokyo-night&hide_border=true" />
+</div>
